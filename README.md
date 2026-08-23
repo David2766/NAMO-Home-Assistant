@@ -1,5 +1,7 @@
 # NAMO for Home Assistant
 
+![NAMO - Ain't Motion-Only.](brand/banner.webp)
+
 [![HACS validation](https://github.com/David2766/NAMO-Home-Assistant/actions/workflows/hacs.yml/badge.svg)](https://github.com/David2766/NAMO-Home-Assistant/actions/workflows/hacs.yml)
 [![Hassfest](https://github.com/David2766/NAMO-Home-Assistant/actions/workflows/hassfest.yml/badge.svg)](https://github.com/David2766/NAMO-Home-Assistant/actions/workflows/hassfest.yml)
 [![Release](https://img.shields.io/github/v/release/David2766/NAMO-Home-Assistant?sort=semver)](https://github.com/David2766/NAMO-Home-Assistant/releases)
